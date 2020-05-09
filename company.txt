@@ -1,0 +1,9 @@
+Hardware
+Software
+Firmware
+HR
+PR
+Sales
+Intern
+Tester
+Manager^

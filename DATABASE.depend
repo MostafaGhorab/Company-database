@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1566240304 source:c:\users\mostafa\desktop\trials\database\main.c
+	"header.h"
+
+1566223181 c:\users\mostafa\desktop\trials\database\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1566240298 source:c:\users\mostafa\desktop\trials\database\functionss.c
+	"header.h"
+
+1566264703 source:c:\users\best byte\desktop\new folder\database\functionss.c
+	"header.h"
+
+1566264500 c:\users\best byte\desktop\new folder\database\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1566259025 source:c:\users\best byte\desktop\new folder\database\main.c
+	"header.h"
+
+1566410965 source:c:\users\mostafa\desktop\database\functionss.c
+	"header.h"
+
+1566396925 c:\users\mostafa\desktop\database\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1566403396 source:c:\users\mostafa\desktop\database\main.c
+	"header.h"
+
